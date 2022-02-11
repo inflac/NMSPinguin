@@ -4,7 +4,7 @@ NMSPinguin is the official Discord Bot of the NMSP Discord Server
 # Features
 The Bot uses different API's, for some fun features like letting the Bot tell a Joke or let the Bot post some cute pictures of cats and dogs.
 
-#Commands
+# Commands
 Here is a list of Commands, the Bot knows about: <br>
 !joke - tells a joke (single or staged) <br>
 !mathfact - tells a mathematical fact <br>
