@@ -41,7 +41,7 @@ class MyClient(discord.Client):
             await message.channel.send(apifun.get_new_mathfact())
 
     #Nasapic
-        if message.content.lower() == "!nasapic":
+        if message.content.lower() == "!nasa":
             await message.channel.send(apifun.get_new_nasapic())
 
     #Dogpic
