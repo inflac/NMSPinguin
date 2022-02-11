@@ -1,4 +1,3 @@
-from turtle import up
 import requests
 
 #Age guesser
