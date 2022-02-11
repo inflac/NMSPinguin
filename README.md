@@ -16,6 +16,11 @@ Here is a list of Commands, the Bot knows about: <br>
 !dogbomb - posts five random pictures of dogs <br>
 !nasa - posts the "Astronomy Picture of the Day" <br>
 
+# Usage
+if you would like to setup this Bot on your own Discord Server, you will have to create a file called: secret.py <br>
+with the following content: <br>
+token = "PASTE YOUR SECRET TOKEN HERE"
+
 # Bugs
 If there are any Bugs, feel free to report them here: https://github.com/inflac/NMSPinguin/issues
 
