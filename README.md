@@ -19,7 +19,21 @@ Here is a list of Commands, the Bot knows about: <br>
 # Usage
 if you would like to setup this Bot on your own Discord Server, you will have to create a file called: secret.py <br>
 with the following content: <br>
-token = "PASTE YOUR SECRET TOKEN HERE"
+token = "PASTE YOUR SECRET TOKEN HERE" <br>
+<br>
+Also keep track of the Corona API. Maybe you will have to change the City Code for your Discord.
+
+# Api
+Corona: https://api.corona-zahlen.org/docs/
+Age-guesser: https://agify.io/
+Mathfact: http://numbersapi.com/#42
+Chucknorrisjoke: https://api.chucknorris.io/
+Catfact: https://catfact.ninja/
+Catpic: https://cataas.com/#/
+Dogpic: https://dog.ceo/dog-api/
+Nasa: https://api.nasa.gov/
+Jokes: https://v2.jokeapi.dev/
+
 
 # Bugs
 If there are any Bugs, feel free to report them here: https://github.com/inflac/NMSPinguin/issues
