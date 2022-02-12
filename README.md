@@ -24,15 +24,15 @@ token = "PASTE YOUR SECRET TOKEN HERE" <br>
 Also keep track of the Corona API. Maybe you will have to change the City Code for your Discord.
 
 # Api
-Corona: https://api.corona-zahlen.org/docs/
-Age-guesser: https://agify.io/
-Mathfact: http://numbersapi.com/#42
-Chucknorrisjoke: https://api.chucknorris.io/
-Catfact: https://catfact.ninja/
-Catpic: https://cataas.com/#/
-Dogpic: https://dog.ceo/dog-api/
-Nasa: https://api.nasa.gov/
-Jokes: https://v2.jokeapi.dev/
+Corona: https://api.corona-zahlen.org/docs/ <br>
+Age-guesser: https://agify.io/ <br>
+Mathfact: http://numbersapi.com/#42 <br>
+Chucknorrisjoke: https://api.chucknorris.io/ <br>
+Catfact: https://catfact.ninja/ <br>
+Catpic: https://cataas.com/#/ <br>
+Dogpic: https://dog.ceo/dog-api/ <br>
+Nasa: https://api.nasa.gov/ <br>
+Jokes: https://v2.jokeapi.dev/ <br>
 
 
 # Bugs
